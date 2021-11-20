@@ -8,3 +8,5 @@ OTHER_FILES    +=                                       \
     $$PWD/AUTHORS                                       \
     $$PWD/LICENSE                                       \
     $$PWD/README.md                                     \
+
+INCLUDEPATH += $$PWD
